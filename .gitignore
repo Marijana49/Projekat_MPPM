@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignoriši generisane Wires fajlove
+TelventDMS.Services.NetworkModelService/DataModel/Wires/*
